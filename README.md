@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```
 
 ## 📷 Screenshot
-![Alt Text](https://media.giphy.com/media/wbTReYGPXhAPOKBKQy/giphy.gif)
+![Alt Text](https://s9.gifyu.com/images/GigaMon-Gif.gif)

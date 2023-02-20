@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```
 
 ## 📷 Screenshot
-![Alt Text](https://ablatival-lever.000webhostapp.com/GigaMon-Gif.gif)
+![Alt Text](http://ablatival-lever.000webhostapp.com/GigaMon-Gif.gif)
